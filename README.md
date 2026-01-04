@@ -2,8 +2,8 @@
 
 Backend Developer | Django & REST APIs
 
-I’m a backend-focused developer with strong interest in Django, REST APIs, and system design.
-I enjoy building real-world backend projects, not just CRUD apps.
+I’m a backend focused developer with strong interest in Django, REST APIs, and system design.
+I enjoy building real world backend projects, not just CRUD apps.
 Currently improving my skills in API design, authentication, and database modeling.
 
 ## 🛠 Tech Stack
@@ -22,7 +22,7 @@ REST API for managing products, orders, users, and inventory.
 
 - Django & DRF
 - JWT Authentication
-- Role-based access
+- Role based access
 - Swagger documentation
 
 🔗 Repo: https://github.com/longchanreaksa/inventory-management-backend
@@ -36,7 +36,7 @@ REST API for managing products, orders, users, and inventory.
 ## 🤝 Open to Opportunities
 
 - Junior Backend Developer roles
-- Internship or entry-level positions
+- Internship or entry level positions
 - Freelance backend projects
 
 ## 📫 Contact
