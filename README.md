@@ -43,6 +43,6 @@ REST API for managing products, orders, users, and inventory.
 
 - GitHub: https://github.com/longchanreaksa
 - Email: helloworldreaksa@gmail.com.com
-- LinkedIn: (optional)
+- LinkedIn: https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b
 - Telegram: https://t.me/longreaksaofficial
 - Facebook: https://www.facebook.com/share/1Cr3FyFffu/?mibextid=wwXIfr
